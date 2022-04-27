@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working as Senior Cybersecurity Specialist
 - 🌱 I’m currently learning Full Stack Developer
-- 👯 I’m looking to collaborate on Projects that need a Security Vision
+- 👯 I’m looking to collaborate on Projects that needs a Security Vision
 - 💬 Ask me about Cybersecurity
